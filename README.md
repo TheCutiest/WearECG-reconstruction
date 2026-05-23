@@ -27,12 +27,11 @@ Our framework provides:
 
 📄 PLOS Digital Health Publication:
 
-:contentReference[oaicite:0]{index=0}
+[https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001335](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001335)
 
 📄 arXiv Version:
 
-:contentReference[oaicite:1]{index=1}
-
+[https://arxiv.org/abs/2510.11442](https://arxiv.org/abs/2510.11442)
 ---
 
 ## Installation
