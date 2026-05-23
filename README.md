@@ -168,7 +168,9 @@ For questions or collaboration, please contact:
 
 ## Acknowledgements
 
-We thank the following open-source projects for their valuable contributions:
+## Acknowledgements
 
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
+We appreciate the following open-source projects for their valuable codebases and research contributions:
+
+- [PyTorch](https://github.com/pytorch/pytorch)
+- [Hugging Face Transformers](https://github.com/huggingface/transformers)
